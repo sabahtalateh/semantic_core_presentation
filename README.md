@@ -85,3 +85,4 @@ https://t.me/semanticmotor - Телеграмм чат где планирую �
 - Telegram - https://t.me/grogenverg
 - Email - sabahtalateh@gmail.com
 - VK - https://vk.com/nitrom
+- Facebook - https://www.facebook.com/groups/932004153862204/
