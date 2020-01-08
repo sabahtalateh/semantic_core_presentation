@@ -82,6 +82,6 @@
 https://t.me/semanticmotor - Телеграмм чат где планирую публиковать новости по прогрессу разработки и по другим 
 событиям, если они будут 
 ## Написать мне
-Telegram - https://t.me/grogenverg
-Email - sabahtalateh@gmail.com
-VK - https://vk.com/nitrom
+- Telegram - https://t.me/grogenverg
+- Email - sabahtalateh@gmail.com
+- VK - https://vk.com/nitrom
