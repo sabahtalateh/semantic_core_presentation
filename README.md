@@ -82,10 +82,11 @@
 
 # Ввязаться
 ## Быть в курсе или принять участие
-https://t.me/semanticmotor - Телеграмм чат где планирую публиковать новости по прогрессу разработки и по другим 
+- https://t.me/semanticmotor - Телеграмм чат где планирую публиковать новости по прогрессу разработки и по другим 
 событиям, если они будут 
+- Группа в Facebook - https://www.facebook.com/groups/932004153862204/
+
 ## Написать мне
 - Telegram - https://t.me/grogenverg
 - Email - sabahtalateh@gmail.com
 - VK - https://vk.com/nitrom
-- Facebook - https://www.facebook.com/groups/932004153862204/
